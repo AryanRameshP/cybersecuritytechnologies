@@ -1,13 +1,12 @@
 
-CS584 - Machine learning project
+Cyber Security Technologies ITMS 448-548
 
 Group Members CWID:
-A20561682 - Sai Sumanth Suresh
-A20562801 - Kavya Muniyur Lakshminarayana
-A20540713 - Vision Kumar Reddy Ellendula
+A20586195 - Aryan Ramesh Prasad
+A20555467 - Abhishek Panjwani
 
 
-### DIAGNOSIS OF POLYCYSTIC OVARY SYNDROME USING MACHINE LEARNING ALGORITHMS
+### DIAGNOSIS OF POLYCYSTIC OVARY SYNDROME 
 
 ### Commands to execute this project
 1- Conda Activate tf
